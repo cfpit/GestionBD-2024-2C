@@ -1,0 +1,17 @@
+1) JDBC SQLite (elegir el .jar)
+https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc
+
+2) Simple Logging Facade for Java (SLF4J)
+es una capa de abstracción para distintos frameworks de logging en Java. Proporciona una API para que tu código interactúe con el logging, independientemente del framework de logging subyacente que se esté utilizando.
+
+Ir a:
+https://www.slf4j.org/download.html
+
+de alli elegir: slf4j-api/ 
+
+y de alli elegir la ultima version estable:
+
+https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.13/
+Descargar slf4j-api-2.0.13.jar
+
+
